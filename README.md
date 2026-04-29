@@ -1,6 +1,6 @@
 ## Hi there 👋
 
 <div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
+    
+  ![snake gif](https://github.com/SKR1NiX/SKR1NiX/blob/output/github-snake-dark.svg)
 </div>
